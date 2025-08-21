@@ -1,3 +1,7 @@
+<p align="center"><a href="https://github.com/cybersecurity-dev/awesome-assembly-programming-language">
+  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/ASM.svg" />
+</a></p>
+
 # [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [Assembly](https://www.reddit.com/r/Assembly_language/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 
