@@ -1,8 +1,13 @@
-<p align="center"><a href="https://github.com/cybersecurity-dev/awesome-assembly-programming-language">
-  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/ASM.svg" />
-</a></p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/X86_assembly_language">
+          <img width="13%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/ASM.svg" />
+        </a>
+    </p>
 
-# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [Assembly](https://www.reddit.com/r/Assembly_language/)
+# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [Assembly](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 
@@ -14,6 +19,12 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+## 📖 Contents
+- [Searching & Sorting Algorithms](#searching--sorting-algorithms)
+- [My Awesome Lists](#my-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Searching & Sorting Algorithms
 
