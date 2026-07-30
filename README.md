@@ -39,9 +39,9 @@
 
 ---
 
-| Algorithm | F# Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
-|----|:----:|:----:|:----:|:----:|:----:|
-|[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)| O(n) | O(n^2) | O(n^2) | O(1) |
+| Algorithm | Intel x86 Assembly Implementation | Intel x64 Assembly Implementation | ARM Assembly Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
+|----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|[Bubble sort](https://wikipedia.org/wiki/Bubble_sort)| [source](#) | [source](#) | [source](#) | O(n) | O(n^2) | O(n^2) | O(1) |
 
 ##
 
