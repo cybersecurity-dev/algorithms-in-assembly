@@ -14,11 +14,63 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+```mermaid
+
+flowchart TD
+
+A[Algorithms]
+
+A --> B[Sorting]
+A --> C[Searching]
+A --> D[Trees]
+A --> E[Graphs]
+
+%% Sorting
+B --> B1[Bubble]
+B --> B2[Selection]
+B --> B3[Insertion]
+B --> B4[Merge]
+B --> B5[Quick]
+B --> B6[Heap]
+B --> B7[Radix]
+
+%% Searching
+C --> C1[Linear]
+C --> C2[Binary]
+C --> C3[Interpolation]
+C --> C4[Hash Lookup]
+
+%% Trees
+D --> D1[Binary Tree]
+D --> D2[BST]
+D --> D3[AVL]
+D --> D4[Red Black]
+D --> D5[Heap]
+D --> D6[B Tree]
+D --> D7[Trie]
+
+%% Graphs
+E --> E1[BFS]
+E --> E2[DFS]
+E --> E3[Dijkstra]
+E --> E4[Bellman Ford]
+E --> E5[Floyd Warshall]
+E --> E6[MST]
+E --> E7[Topological Sort]
+
+style A fill:#2c3e50,color:#fff,stroke:#000
+
+style B fill:#3498db,color:#fff
+style C fill:#2ecc71,color:#fff
+style D fill:#f1c40f,color:#000
+style E fill:#e74c3c,color:#fff
+```
 
 ## 📖 Contents
 - [Searching & Sorting Algorithms](#searching--sorting-algorithms)
@@ -49,11 +101,9 @@
 You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/algorithms-in-assembly/graphs/contributors)!
 
 [🔼 Back to top](#algorithms-in-assembly)
